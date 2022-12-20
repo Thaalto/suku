@@ -18,15 +18,15 @@ li {
 }
 
 body {
-background-color: #FFFFCC;
-font-family:arial, helvetica;
-text-align:left; 
+	background-color: #FFFFCC;
+	font-family:arial, helvetica;
+	text-align:left; 
 } 
 .kuva {
-float: left;
-position: relative;
-margin: 10px;
-max-width: 100%;
+	float: middle;
+	position: relative;
+	margin: 10px;
+	max-width: 100%;
 }
 
 h2 {
