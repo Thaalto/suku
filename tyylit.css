@@ -26,6 +26,9 @@ background-color: #FFFFCC;
 font-family:arial, helvetica;
 text-align:left; 
 } 
+.img  {
+  float: right;
+}
 
 h2 {
 	text-align:center;
