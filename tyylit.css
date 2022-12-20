@@ -53,18 +53,7 @@ p {
 	line-height: 130%;
 	font-weight: bold;
 }
-.CV {
-	text-align:left;
-	position:relative;
-	font-size: 20px;
-	left:20%;
-	right:20%;
-	top:0%;
-	width:60%;
-	height:20%;
-	line-height: 30%;
-	color:#9999FF;
-}
+
 dl { 
 text-align:left;
 position: relative;
@@ -153,7 +142,7 @@ right:5%;
 top:2%;
 width:90%;
 height:10%;
-background-color:#f0dc5d;
+background-color: #f0dc5d;
 line-height: 130%;
 }
 .laatikko2 {
