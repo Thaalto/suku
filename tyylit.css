@@ -152,7 +152,7 @@ th {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 35%;
   }
   .tekstiboksiin{
     text-align: center;
@@ -162,7 +162,7 @@ th {
     width: 80%;
     border: 2px solid RGB(127,175,221);
     padding: 20px;
-    margin: 30px;
+    margin: 5px 5px 5px 40px;
     color: WHITE;
   }
 
