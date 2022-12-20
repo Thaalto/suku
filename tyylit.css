@@ -148,5 +148,21 @@ th {
 	background-color: #f0dc5d;
 	line-height: 130%;
 }
-
+.kuvaboksiin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+  .tekstiboksiin{
+    text-align: center;
+  }
+  .boksi{
+    background-color: RGB(15,43,82);
+    width: 60%;
+    border: 2px solid RGB(127,175,221);
+    padding: 20px;
+    margin: 20px;
+    color: WHITE;
+  }
 
