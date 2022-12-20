@@ -157,15 +157,6 @@ top:0%;
 width:80%;
 }
 
-.kuva {
-position:relative; 
-left:5%;
-right:5%;
-top:30%;
-width:10%;
-background-color:#FFFFCC;
-}
-
 .osoite {
 position:relative; 
 font-weight: bold;
