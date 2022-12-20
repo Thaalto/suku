@@ -1,0 +1,29 @@
+body {
+background-color: white;
+font-family:arial, helvetica;
+text-align:left
+font-size:14px; 
+} 
+
+th {
+text-align:left; 
+font-size:large;
+left:10%;
+right:5%;
+top:5%;
+width:20%;
+height:50%;
+line-height: 100%;
+color:blue;
+}
+
+td {
+	text-align:left;
+	left:10%;
+	right:15%;
+	top:10%;
+	font-size: 15px;
+	height:50%;
+	line-height: 100%;
+	color: black;
+}
