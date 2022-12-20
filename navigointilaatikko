@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+ <html lang="fi">
+ <head>
+   <meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="tyylit.css"/>
+	<title>navigointilaatikko</title>
+<meta name="generator" content="TSW WebCoder"/>
+<meta name="author" content="Thua Aalto"/>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta name="creation_date" content="March 27, 2006"/>
+</head>
+
+<body>
+<!-- taulukko -->
+
+<div class="laatikko" title="linkit">
+<table border="1" width="100%">
+<!-- taulukon otsikot ovat linkkejä -->
+<tr>
+<th><a href="CV.html" target="perusosa">CV</a></th>
+<th><a href="lehtijutut.html" target="perusosa">Artikkelit</a></th>
+<th><a href="sukututkimus.html" target="perusosa">Suku</a></th>
+<th><a href="gradu.html" target="perusosa">Gradu</a></th>
+<th><a href="linkit.htm" target="perusosa">Linkit</a></th>
+</tr>
+<!-- taulukon tekstisolut -->
+<tr>
+<td>
+Tästä linkistä voit tutustua ansioluettelooni.
+</td>
+<td>
+Kaikki linkin takaa löytyvät artikkelit on julkaistu.
+</td>
+<td>
+Tervetuloa katsomaan, olemmeko kaukaista sukua!
+</td>
+<td>
+Graduni Perun ja Ecuadorin välisestä kiistasta kirjoitin valmiiksi vuonna 2001. 
+</td>
+<td>
+Linkkejä...
+</td>
+</tr>
+</table>
+</div>
+
+
+</body>
+</html>
