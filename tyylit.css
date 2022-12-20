@@ -1,0 +1,200 @@
+p {
+	font-size: 90%; font-family: Arial, Helvetica, sans-serif
+}
+
+a:link {
+	color: #0033ff; TEXT-DECORATION: none
+}
+a:active {
+	color: #0033ff; TEXT-DECORATION: underline
+}
+a:visited {
+ color: #996666; TEXT-DECORATION: none
+}
+a:hover {
+	TEXT-DECORATION: underline
+}
+h1 {
+	font-size: 100%; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+LI {
+	font-size: 90%; font-family: Arial, Helvetica, sans-serif
+}
+
+body {
+background-color: #FFFFCC;
+font-family:arial, helvetica;
+text-align:left; 
+} 
+
+h2 {
+	text-align:center;
+	position:relative;
+	font-size: 23px;
+	left:20%;
+	right:20%;
+	top:5%;
+	width:60%;
+	height:30%;
+	line-height: 100%;
+	color:#CC3333;
+	padding-top: 2px;
+}
+
+p {
+	text-align:left;
+	position: relative;
+	left:15%;
+	right:15%;
+	top:4%;
+	font-size: 16px;
+	height:30%;
+	width:70%;
+	line-height: 130%;
+	font-weight: bold;
+}
+.CV {
+	text-align:left;
+	position:relative;
+	font-size: 20px;
+	left:20%;
+	right:20%;
+	top:0%;
+	width:60%;
+	height:20%;
+	line-height: 30%;
+	color:#9999FF;
+}
+dl { 
+text-align:left;
+position: relative;
+left:15%;
+right:15%;
+top:5%;
+font-size: 18px;
+height:30%;
+width:70%;
+line-height: 200%;
+}
+
+.gradulinkit {
+	text-align:left;
+	position:relative;
+	font-size: 20px;
+	left:15%;
+	right:20%;
+	top:3%;
+	width:70%;
+	height:30%;
+	line-height: 130%;
+	color:#9999FF;
+	clear: both;
+}
+
+.caption {
+	position:relative;
+	text-align: center;
+	font-size:18px;
+	left:15%;
+	right:20%;
+	top:5%;
+	width:70%;
+	line-height: 160%;
+}
+td {
+	text-align:left;
+	left:20%;
+	right:15%;
+	top:5%;
+	font-size: 16px;
+	height:50%;
+	line-height: 160%;
+	color: black;
+}
+
+dd {
+	text-align:left;
+	left:20%;
+	right:15%;
+	top:10%;
+	font-size: 16px;
+	height:50%;
+	line-height: 160%;
+	color: black;
+}
+.etusivuteksti {
+	position:relative;
+	font-size:16px;
+	left:15%;
+	right:20%;
+	top:5%;
+	width:70%;
+	line-height: 160%;
+	font-weight: bold;
+}
+
+th {
+text-align:left; 
+font-size:large;
+left:10%;
+right:5%;
+top:15%;
+width:16%;
+height:50%;
+line-height: 170%;
+color:#CC3333;
+}
+
+.laatikko {
+position:relative;
+text-align: left; 
+left:5%;
+right:5%;
+top:2%;
+width:90%;
+height:10%;
+background-color:#9999FF;
+line-height: 130%;
+}
+.laatikko2 {
+position:relative;
+text-align: left; 
+left:15%;
+right:15%;
+top:0%;
+width:80%;
+}
+
+.kuva {
+position:relative; 
+left:5%;
+right:5%;
+top:30%;
+width:10%;
+background-color:#FFFFCC;
+}
+
+.osoite {
+position:relative; 
+font-weight: bold;
+font-family:arial, helvetica;
+left:5%;
+right:10%;
+top:2%;
+width:70%;
+height:40%;
+line-height: 130%;
+}
+
+.suosikkilinkki { 
+text-align:center;
+left:15%;
+right:15%;
+top:10%;
+font-size: 18px;
+height:100%;
+line-height: 120%;
+}
+.punakorostus { 
+color:#CC3333;
+}
