@@ -22,8 +22,11 @@ background-color: #FFFFCC;
 font-family:arial, helvetica;
 text-align:left; 
 } 
-.img  {
-  float: right;
+.kuva {
+float: left;
+position: relative;
+margin: 10px;
+max-width: 100%;
 }
 
 h2 {
