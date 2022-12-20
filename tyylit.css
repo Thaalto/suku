@@ -23,7 +23,6 @@ body {
 	text-align:left; 
 } 
 .kuva {
-	float: middle;
 	position: relative;
 	margin: 10px;
 	max-width: 100%;
