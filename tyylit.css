@@ -145,36 +145,5 @@ height:10%;
 background-color: #f0dc5d;
 line-height: 130%;
 }
-.laatikko2 {
-position:relative;
-text-align: left; 
-left:15%;
-right:15%;
-top:0%;
-width:80%;
-}
 
-.osoite {
-position:relative; 
-font-weight: bold;
-font-family:arial, helvetica;
-left:5%;
-right:10%;
-top:2%;
-width:70%;
-height:40%;
-line-height: 130%;
-}
 
-.suosikkilinkki { 
-text-align:center;
-left:15%;
-right:15%;
-top:10%;
-font-size: 18px;
-height:100%;
-line-height: 120%;
-}
-.punakorostus { 
-color:#CC3333;
-}
