@@ -58,15 +58,15 @@ p {
 }
 
 dl { 
-text-align:left;
-position: relative;
-left:15%;
-right:15%;
-top:5%;
-font-size: 18px;
-height:30%;
-width:70%;
-line-height: 200%;
+	text-align:left;
+	position: relative;
+	left:15%;
+	right:15%;
+	top:5%;
+	font-size: 18px;
+	height:30%;
+	width:70%;
+	line-height: 200%;
 }
 
 .sukulinkit {
@@ -126,27 +126,27 @@ dd {
 }
 
 th {
-text-align:left; 
-font-size:large;
-left:10%;
-right:5%;
-top:15%;
-width:16%;
-height:50%;
-line-height: 170%;
-color:#CC3333;
+	text-align:left; 
+	font-size:large;
+	left:10%;
+	right:5%;
+	top:15%;
+	width:16%;
+	height:50%;
+	line-height: 170%;
+	color:#CC3333;
 }
 
 .laatikko {
-position:relative;
-text-align: left; 
-left:5%;
-right:5%;
-top:2%;
-width:90%;
-height:10%;
-background-color: #f0dc5d;
-line-height: 130%;
+	position:relative;
+	text-align: left; 
+	left:5%;
+	right:5%;
+	top:2%;
+	width:90%;
+	height:10%;
+	background-color: #f0dc5d;
+	line-height: 130%;
 }
 
 
